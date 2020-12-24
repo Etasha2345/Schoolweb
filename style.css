@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+li {
+  float: left;
+    position: fixed;
+}
+
+li a {
+  display: block;
+  padding: 0px;
+  background-color: black;
+    font-size: 40px;
+    position: fixed;
+}
+li a:hover {
+  background-color: blue;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+#video {
+    margin-top: auto;
+}
+img {
+    width:1000px;
+    height: 850px;
+    
+}
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h5 {
+    display: inline;
+    font-size: 30px;
+}
+
+.contact_2 {
+    text-shadow: none;
+    font-size: 30px;
+}
+input{
+    background: yellow;
+    font-size: 30px;
+}
